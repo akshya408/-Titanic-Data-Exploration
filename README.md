@@ -35,6 +35,7 @@ Survivors cluster at higher fares and younger/middle ages.
 
 Some low-fare survivors exist (possible crew or exceptions).
 
-python file :
+python output file :
  -<a href = "https://github.com/akshya408/-Titanic-Data-Exploration/blob/main/titanic_eda_new.py">python output file </a>
+python file :
  -<a href = "https://github.com/akshya408/-Titanic-Data-Exploration/blob/main/train.csv">python file </a>
